@@ -1,0 +1,52 @@
+[
+  {
+    "id": "yes",
+    "regno": "12d151",
+    "estimatedValue": "€105001 - €155000",
+    "kilometers": "15001 - 16500",
+    "modification": "Bull Bars"
+  },
+  {
+    "id": "yes1",
+    "regno": "12d151",
+    "estimatedValue": "More than €155000",
+    "kilometers": "25501 - 27000",
+    "modification": "Select all"
+  },{
+  "id": "no",
+  "makeOfCar": "CITROEN",
+  "modelOfCar": "C1",
+  "fuelType": "Petrol",
+  "yearOfRegistration": "2018",
+  "transmission": "Manual",
+  "vehicle": "C1 (2005-present) 998cc Manual 3dr",
+  "estimatedValue": "More than €155000",
+  "kilometers": "25501 - 27000",
+  "modification": "Select all"
+},
+  {
+    "id": "no1",
+    "makeOfCar": "CITROEN",
+    "modelOfCar": "C1",
+    "fuelType": "Petrol",
+    "yearOfRegistration": "2018",
+    "transmission": "Manual",
+    "vehicle": "C1 1.0I 68HP VTR (2012-present) 998cc Manual 5dr",
+    "estimatedValue": "More than €155000",
+    "kilometers": "25501 - 27000",
+    "modification": "Select all"
+  },
+  {
+    "id": "ayc",
+    "makeOfCar": "CITROEN",
+    "modelOfCar": "C1",
+    "fuelType": "Petrol",
+    "yearOfRegistration": "2018",
+    "transmission": "Manual",
+    "vehicle": "C1 1.0I 68HP VTR (2012-present) 998cc Manual 5dr",
+
+    "kilometers": "25501 - 27000"
+  }
+
+
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "conviction",
+    "name": "sumanth vuppu",
+    "date": "02/02/2020",
+    "type": "Accident not reported by the Insured"
+  },
+  {
+    "id": "convictionUpdate",
+    "name": "sumanth vuppu (Brother)",
+    "date": "02/02/2021",
+    "type": "Unauthorised Taking of Vehicle"
+  },{
+  "id": "disqualification",
+  "name": "sumanth vuppu",
+  "date": "02/02/2020",
+  "type": "Accident not reported by the Insured"
+},{
+  "id": "disqualificationUpdate",
+  "name": "sumanth vuppu (Brother)",
+  "date": "02/02/2021",
+  "type": "Unauthorised Taking of Vehicle"
+},{
+  "id": "refusal",
+  "name": "sumanth vuppu",
+  "date": "02/02/2020",
+  "type": "Accident not reported by the Insured"
+},{
+  "id": "refusalUpdate",
+  "name": "sumanth vuppu (Brother)",
+  "date": "02/02/2021",
+  "type": "Unauthorised Taking of Vehicle"
+},{
+  "id": "medical",
+  "name": "sumanth vuppu",
+  "type": "Achondroplasia"
+},{
+  "id": "medicalUpdate",
+  "name": "sumanth vuppu (Brother)",
+  "type": "Vertigo"
+}
+
+]
