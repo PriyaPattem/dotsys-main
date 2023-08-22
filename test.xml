@@ -1,0 +1,36 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1"  verbose="1" >
+    <parameter name="local" value="true"></parameter>
+   <test name="sample" parallel="methods" thread-count="5">
+       <parameter name="browser" value="CHROME"></parameter>
+       
+      <classes>
+
+          <!--   <class name="org.selenium.pom.tests.PersonalDetailsTests"></class>
+        <class name="org.selenium.pom.tests.InsuranceDetailsTests"></class>-->
+                 <class name="org.selenium.pom.tests.CarDetailsTests"></class>
+          <!-- <class name="org.selenium.pom.tests.AdditionalDriversTests"></class>
+             <class name="org.selenium.pom.tests.YourClaimsTest"></class>
+               <class name="org.selenium.pom.tests.PenaltyPointsTests"></class>
+              <class name="org.selenium.pom.tests.CoverStartDateTests"></class>-->
+       <!--  <class name="org.selenium.pom.tests.YourQuoteTests"></class>
+             <class name="org.selenium.pom.tests.AboutYourCarTests"></class>-->
+          <!--  <class name="org.selenium.pom.tests.AboutTheDriversTests"></class>
+            <class name="org.selenium.pom.tests.YourInsuranceHistoryAndInceptionDetailsTests"></class>-->
+     </classes>
+       
+
+<!--<packages>
+         <package name="org.selenium.pom.tests"></package>
+     </packages>-->
+   </test>
+    <!--<test name="sample1">
+        <parameter name="browser" value="FIREFOX"></parameter>
+        <classes>
+            <class name="org.selenium.pom.tests.AddToCartWithLogin"></class>
+            <class name="org.selenium.pom.tests.Checkout"></class>
+        </classes>
+    </test>-->
+
+</suite>
